@@ -1,2 +1,2 @@
-## React JWT Authentication  example
+## React 
 
